@@ -5,9 +5,9 @@ Android → Windows 本地蓝牙传输工具。文字接收后自动在记事本
 ## 下载与安装
 
 - [完整源码 ZIP](bluetooth-transfer-assistant-mit-source.zip)：包含 Android、Windows、BLE 桥接器固件、协议测试及构建脚本。解压后进入 github-release-source 文件夹。
-- [手机与电脑安装使用说明](INSTALL.md)：分别说明 APK、Windows EXE 与源码编译的使用方式。
+- [手机与电脑安装使用说明](INSTALL.md)：手机安装 APK；Windows 完整解压源码包后运行对应 BAT 脚本。当前没有提供 EXE 下载，EXE 由 BAT 在电脑本地编译生成。
 
-当前以源码压缩包形式发布，代码尚未在仓库网页中按目录展开；下载 ZIP 后可查看完整目录与源码。当前没有上传 APK 或预编译 EXE。
+源码以压缩包形式提供，代码尚未在仓库网页中按目录展开；下载 ZIP 后可查看完整目录与源码。安装包附件请查看 [Releases](https://github.com/ilovefisker/bluetooth-transfer-assistant/releases)。Windows 端提供源码和 BAT 构建脚本，没有预编译 EXE；必须完整解压后运行 BAT，不能只下载一个 BAT。
 
 ## 功能
 
